@@ -1,0 +1,37 @@
+.card-body {
+    font-family: Times;
+    text-align: center;
+  }
+  
+.team-heading {
+    font-family: Times;
+    color: white;
+    background-color: rgb(235, 89, 169);
+    font-size: 20px;
+    letter-spacing: 4px;
+    font-weight: bold; 
+    text-align: center;
+}
+
+.team-area {
+  display: flex;
+  font-family: Times;
+  font-size: 15px;
+  text-align: center;
+}
+
+.employee-card{    
+  background-color:black;  
+  font-size: 15px;
+  font-weight: bold;  
+  font-family: Times;
+  border-radius: 20px 20px 20px 20px;
+  margin: 5px;
+}
+.card-header {
+    border-radius: 30px;
+    color: lightblue;
+
+    border-radius: 20px 20px 20px 20px;
+  
+}
