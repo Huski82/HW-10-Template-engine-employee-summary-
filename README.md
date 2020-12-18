@@ -25,11 +25,11 @@ Users inputs the employee details for Manager, Developers and Interns on a team.
 * Start the program by running "node app.js"
 * Answer the questions for each employee and after completed input n to automatically generate your html to output.
 
-![](./Assets/images/my team.mp4)
+![](/Assets/images/my-team.mp4)
 
 
 
-![](./Assets/images/my team.png)
+![](/Assets/images/my-team.png)
 
 
 ## Technologies
