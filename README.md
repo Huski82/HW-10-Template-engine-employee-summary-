@@ -25,7 +25,6 @@ Users inputs the employee details for Manager, Developers and Interns on a team.
 * Start the program by running "node app.js"
 * Answer the questions for each employee and after completed input n to automatically generate your html to output.
 
-![myteamclip](./Assets/images/myteamclip.mp4)
 
 https://drive.google.com/file/d/1cyXHPry_GxQGJ8ioQlBAXas7owt5ltep/view
 
